@@ -5,3 +5,4 @@ Social chat
 ![](Chat_menu.png)
 ![](Profile.png)
 ![](social.png)
+![](chat-stats.png)
